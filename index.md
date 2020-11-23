@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## THIS IS MY GITLEARNING LAB ON GITPAGES
+
+I am delighted to be finally learnig about Git and GitHub
