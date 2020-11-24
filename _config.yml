@@ -1,6 +1,7 @@
 title: The AMAZING GITHUB
 author: Walz
 email: greenrangerltd@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Here I describe my journey in learning GIT and GITHUB.
 # social links
